@@ -346,22 +346,27 @@
     new Swiper(".et-testimonial-slider", {
         slidesPerView: 4,
         spaceBetween: 20,
-        watchSlidesProgress: true,
+        // watchSlidesProgress: true,
         centeredSlides: true,
         loop: true,
-        autoplay: true,
+        allowTouchMove: false,
+        // autoplay: true,
         breakpoints: {
             0: {
                 slidesPerView: 1,
+                 allowTouchMove: true,
             },
             576: {
                 slidesPerView: 1.5,
+                 allowTouchMove: true,
             },
             768: {
                 slidesPerView: 2,
+                 allowTouchMove: true,
             },
             992: {
                 slidesPerView: 2.4,
+                 allowTouchMove: true,
             },
             1200: {
                 slidesPerView: 2.8,

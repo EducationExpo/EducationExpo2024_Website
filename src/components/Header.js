@@ -64,16 +64,16 @@ export default function Header() {
                     </ul>
                   </li>
                   <li>
-                    <a href="about">About us</a>
+                    <a href="#about">About us</a>
                   </li>
                   <li className="has-sub-menu relative">
                     <a href="/" role="button">Events</a>
                     <ul className="et-header-submenu">
                       <li>
-                        <a href="events.html">All Events</a>
+                        <a href="/#">All Events</a>
                       </li>
                       <li>
-                        <a href="event-details.html">Events Details</a>
+                        <a href="/#">Events Details</a>
                       </li>
                     </ul>
                   </li>
@@ -81,22 +81,22 @@ export default function Header() {
                     <a href="/" role="button">Pages</a>
                     <ul className="et-header-submenu">
                       <li>
-                        <a href="pricing.html">Pricing Plan</a>
+                        <a href="/#">Pricing Plan</a>
                       </li>
                       <li>
-                        <a href="gallery.html">Gallery</a>
+                        <a href="/#">Gallery</a>
                       </li>
                       <li>
-                        <a href="faq.html">FAQ</a>
+                        <a href="/#">FAQ</a>
                       </li>
                       <li>
-                        <a href="sponsor.html">Sponsors</a>
+                        <a href="/#">Sponsors</a>
                       </li>
                       <li>
-                        <a href="venue.html">Venue</a>
+                        <a href="/#">Venue</a>
                       </li>
                       <li>
-                        <a href="404.html">Error 404</a>
+                        <a href="/#">Error 404</a>
                       </li>
                     </ul>
                   </li>
@@ -104,10 +104,10 @@ export default function Header() {
                     <a href="/" role="button">Team</a>
                     <ul className="et-header-submenu">
                       <li>
-                        <a href="team.html">Team Members</a>
+                        <a href="/#">Team Members</a>
                       </li>
                       <li>
-                        <a href="team-member-details.html">Team Details</a>
+                        <a href="team-member-">Team Details</a>
                       </li>
                     </ul>
                   </li>
@@ -115,15 +115,15 @@ export default function Header() {
                     <a href="/" role="button">News</a>
                     <ul className="et-header-submenu">
                       <li>
-                        <a href="news.html">All News</a>
+                        <a href="/#">All News</a>
                       </li>
                       <li>
-                        <a href="news-details.html">News Details</a>
+                        <a href="news-">News Details</a>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="contact.html">Contact</a>
+                    <a href="/#">Contact</a>
                   </li>
                 </ul>
                 {/* button */}

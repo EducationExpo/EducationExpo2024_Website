@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+// document.addEventListener("DOMContentLoaded", () => {
     "use strict";
     (function () {
         function countdown(countdownElem, date) {
@@ -32,6 +32,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // countdown("#et-banner-event-timer", "2024-03-30T00:00:00");
         // countdown("#et-upcoming-events-timer", "2024-03-30T00:00:00");
-        countdown(".et-countdown", "2024-05-30T00:00:00");
+        countdown(".et-countdown", "2024-12-15T00:00:00");
     })();
-});
+// });

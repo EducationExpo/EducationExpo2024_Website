@@ -214,7 +214,7 @@ export default function Footer() {
                   </span>
                   <span>24, jan - 2024</span>
                 </span>
-                <h6 className="font-medium text-[20px] text-white"><a href="news-details.html" className="hover:text-etBlue">Web Developer Meetup</a></h6>
+                <h6 className="font-medium text-[20px] text-white"><a href="#" className="hover:text-etBlue">Web Developer Meetup</a></h6>
               </div>
             </div>
             {/* single upcoming events */}
@@ -247,7 +247,7 @@ export default function Footer() {
                   </span>
                   <span>24, jan - 2024</span>
                 </span>
-                <h6 className="font-medium text-[20px] text-white"><a href="news-details.html" className="hover:text-etBlue">Web Developer Meetup</a></h6>
+                <h6 className="font-medium text-[20px] text-white"><a href="#" className="hover:text-etBlue">Web Developer Meetup</a></h6>
               </div>
             </div>
           </div>
