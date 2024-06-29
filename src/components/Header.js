@@ -72,48 +72,15 @@ export default function Header() {
                   </li>
                   <li className="has-sub-menu relative">
                     <a href="/" role="button">Press</a>
-                    <ul className="et-header-submenu">
-                      <li>
-                        <a href="/#">Pricing Plan</a>
-                      </li>
-                      <li>
-                        <a href="/#">Gallery</a>
-                      </li>
-                      <li>
-                        <a href="/#">FAQ</a>
-                      </li>
-                      <li>
-                        <a href="/#">Sponsors</a>
-                      </li>
-                      <li>
-                        <a href="/#">Venue</a>
-                      </li>
-                      <li>
-                        <a href="/#">Error 404</a>
-                      </li>
-                    </ul>
+                
                   </li>
                   <li className="has-sub-menu relative">
-                    <a href="/" role="button">Team</a>
-                    <ul className="et-header-submenu">
-                      <li>
-                        <a href="/#">Team Members</a>
-                      </li>
-                      <li>
-                        <a href="team-member-">Team Details</a>
-                      </li>
-                    </ul>
+                    <a href="/" role="button">Our Team</a>
+                  
                   </li>
                   <li className="has-sub-menu relative">
-                    <a href="/" role="button">News</a>
-                    <ul className="et-header-submenu">
-                      <li>
-                        <a href="/#">All News</a>
-                      </li>
-                      <li>
-                        <a href="news-">News Details</a>
-                      </li>
-                    </ul>
+                    <a href="/" role="button">Blog</a>
+                 
                   </li>
                   <li>
                     <a href="/#">Contact</a>

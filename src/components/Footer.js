@@ -61,7 +61,7 @@ export default function Footer() {
           {/* txt */}
           <div>
             <span className="block font-medium text-[14px]">Call us</span>
-            <h5 className="font-medium text-[20px]"><a href="tel:88012365499">9371231231</a></h5>
+            <h5 className="font-medium text-[20px]"><a href="tel:9371231231">9371231231</a></h5>
           </div>
         </div>
       </div>
@@ -84,32 +84,32 @@ export default function Footer() {
           <ul className="space-y-[17px] text-[16px] font-light text-[#f2f2f2]">
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
-                <span className="txt">Useful Links</span>
+                <span className="txt">About us</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
-                <span className="txt">Indoor Concerts</span>
+                <span className="txt">AEE2023 Schedule</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
-                <span className="txt">Festivals</span>
+                <span className="txt">Press</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
-                <span className="txt">Concerts</span>
+                <span className="txt">Our Team</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
-                <span className="txt">Event Calendar</span>
+                <span className="txt">Blog</span>
+              </a>
+            </li>
+            <li>
+              <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
+                <span className="txt">Contact</span>
               </a>
             </li>
           </ul>
@@ -120,25 +120,21 @@ export default function Footer() {
           <ul className="space-y-[17px] text-[16px] font-light text-[#f2f2f2]">
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
                 <span className="txt">Terms and Conditions</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
                 <span className="txt">Privacy Policies</span>
               </a>
             </li>
             {/* <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
                 <span className="txt">About Eventek</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                
                 <span className="txt">How It Works</span>
               </a>
             </li> */}
@@ -220,7 +216,7 @@ export default function Footer() {
     </div>
     {/* footer bottom */}
     <div className="et-footer-bottom border-t border-white/20 py-[34px]">
-      <p className="font-light text-[#f2f2f2] text-center text-[16px]">© 2024, Eventek All Rights Reserved.</p>
+      <p className="font-light text-[#f2f2f2] text-center text-[16px]">© 2024, Education Expo All Rights Reserved.</p>
     </div>
   </div>
 </footer>
