@@ -23,8 +23,8 @@ export default function Footer() {
           </div>
           {/* txt */}
           <div>
-            <span className="block font-medium text-[14px]">Event Venue</span>
-            <h5 className="font-medium text-[20px]">4648 Rocky Road Philadelphia PA, 1920</h5>
+            <span className="block font-medium text-[14px]">Correspondence Address</span>
+            <h5 className="font-medium text-[20px]">23/41/1068, Vaishali Nagar, Jaswantsingpura, Aurangabad</h5>
           </div>
         </div>
         {/* single info */}
@@ -43,7 +43,7 @@ export default function Footer() {
           {/* txt */}
           <div>
             <span className="block font-medium text-[14px]">Send Email</span>
-            <h5 className="font-medium text-[20px]"><a href="mailto:info@eventek.com">info@eventek.com</a></h5>
+            <h5 className="font-medium text-[20px]"><a href="mailto:mail@educationexpo.org">mail@educationexpo.org</a></h5>
           </div>
         </div>
         {/* single info */}
@@ -61,7 +61,7 @@ export default function Footer() {
           {/* txt */}
           <div>
             <span className="block font-medium text-[14px]">Call Emergency</span>
-            <h5 className="font-medium text-[20px]"><a href="tel:88012365499">+88 0123 654 99</a></h5>
+            <h5 className="font-medium text-[20px]"><a href="tel:88012365499">+91 9371231231</a></h5>
           </div>
         </div>
       </div>

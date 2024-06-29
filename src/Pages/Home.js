@@ -436,43 +436,43 @@ export default function Home() {
       <section className="grid grid-cols-4 lg:grid-cols-3 sm:grid-cols-2">
         {/* single gallery item */}
         <div className="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100">
-          <img src="assets/img/gallery-img-1.jpg" alt="gallery image" />
-          <a href="assets/img/gallery-img-1.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
+          <img src="assets/img/gallery/1.jpg" alt="gallery image" />
+          <a href="assets/img/gallery/1.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
             <i className="fa-plus fa-regular" />
           </a>
         </div>
         {/* single gallery item */}
         <div className="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100">
-          <img src="assets/img/gallery-img-2.jpg" alt="gallery image" />
-          <a href="assets/img/gallery-img-2.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
+          <img src="assets/img/gallery/2.jpg" alt="gallery image" />
+          <a href="assets/img/gallery/2.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
             <i className="fa-plus fa-regular" />
           </a>
         </div>
         {/* single gallery item */}
         <div className="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100">
-          <img src="assets/img/gallery-img-3.jpg" alt="gallery image" />
-          <a href="assets/img/gallery-img-3.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
+          <img src="assets/img/gallery/3.jpg" alt="gallery image" />
+          <a href="assets/img/gallery/3.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
             <i className="fa-plus fa-regular" />
           </a>
         </div>
         {/* single gallery item */}
         <div className="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100">
-          <img src="assets/img/gallery-img-4.jpg" alt="gallery image" />
-          <a href="assets/img/gallery-img-4.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
+          <img src="assets/img/gallery/4.jpg" alt="gallery image" />
+          <a href="assets/img/gallery/4.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
             <i className="fa-plus fa-regular" />
           </a>
         </div>
         {/* single gallery item */}
         <div className="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100">
-          <img src="assets/img/gallery-img-5.jpg" alt="gallery image" />
-          <a href="assets/img/gallery-img-5.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
+          <img src="assets/img/gallery/5.jpg" alt="gallery image" />
+          <a href="assets/img/gallery/5.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
             <i className="fa-plus fa-regular" />
           </a>
         </div>
         {/* single gallery item */}
         <div className="relative z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100">
-          <img src="assets/img/gallery-img-6.jpg" alt="gallery image" />
-          <a href="assets/img/gallery-img-6.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
+          <img src="assets/img/gallery/6.jpg" alt="gallery image" />
+          <a href="assets/img/gallery/6.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
             <i className="fa-plus fa-regular" />
           </a>
         </div>
@@ -487,8 +487,8 @@ export default function Home() {
         </div>
         {/* single gallery item */}
         <div className="relative xxs:col-span-2 z-[1] group before:absolute before:inset-0 before:bg-etBlack/70 before:z-[0] before:opacity-0 before:transition before:duration-[400ms] hover:before:opacity-100">
-          <img src="assets/img/gallery-img-7.jpg" alt="gallery image" />
-          <a href="assets/img/gallery-img-7.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
+          <img src="assets/img/gallery/7.jpg" alt="gallery image" />
+          <a href="assets/img/gallery/7.jpg" data-fslightbox="gallery" className="inline-flex items-center justify-center w-[64px] aspect-square rounded-full bg-white text-[25px] absolute top-[50%] left-[50%] -translate-x-[50%] -translate-y-[50%] opacity-0 group-hover:opacity-100 hover:text-etBlue">
             <i className="fa-plus fa-regular" />
           </a>
         </div>
@@ -579,10 +579,11 @@ export default function Home() {
             {/* join card */}
             <div className="bg-etBlue p-[40px] lg:p-[30px] xs:px-[20px] xs:pb-0 pb-0 lg:pb-0 rounded-[20px] overflow-hidden relative z-[1] before:absolute before:inset-0 before:bg-[url('assets/img/cta-bg-2.jpg')] before:bg-cover before:bg-no-repeat before:bg-center before:-z-[1] before:opacity-30 before:mix-blend-overlay">
               <div className="mb-[34px]">
-                <h6 className="et-section-sub-title !text-white before:!bg-white anim-text">Build Your Career</h6>
-                <h2 className="et-section-title !text-white mb-[18px] anim-text">Get Join Our Event</h2>
-                <p className="text-[16px] text-white font-light mb-[25px]">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look</p>
-                <a href="/" className="bg-etBlue border border-white rounded-full h-[45px] px-[15px] text-[17px] text-white inline-flex items-center justify-center hover:bg-white hover:text-etBlue">Get Tickets Now</a>
+              <h6 className="et-section-sub-title !text-white before:!bg-white anim-text">Build Your Career</h6>
+<h2 className="et-section-title !text-white mb-[18px] anim-text">Join Us at the Education Expo</h2>
+<p className="text-[16px] text-white font-light mb-[25px]">Volunteer with us at the Education Expo and make a difference in the community. There are many ways to get involved, and your contribution can help create a lasting impact. Join us and be a part of an inspiring event dedicated to education and growth.</p>
+<a href="/" className="bg-etBlue border border-white rounded-full h-[45px] px-[15px] text-[17px] text-white inline-flex items-center justify-center hover:bg-white hover:text-etBlue">Volunteer Now</a>
+
               </div>
               <div className="rounded-tl-[20px] rounded-tr-[20px] overflow-hidden">
                 <img src="assets/img/cta-img.jpg" alt="Image" />
