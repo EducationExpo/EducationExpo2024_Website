@@ -45,7 +45,7 @@ export default function Header() {
                 <ul className="et-header-nav flex md:flex-col gap-x-[43px] xl:gap-x-[33px] font-kanit text-[17px] font-normal">
                   <li className="has-sub-menu relative">
                     <a href="./" role="button">Home</a>
-                    <ul className="et-header-submenu">
+                    {/* <ul className="et-header-submenu">
                       <li>
                         <a href="./">Home</a>
                       </li>
@@ -61,24 +61,17 @@ export default function Header() {
                       <li>
                         <a href="/">Our Policies</a>
                       </li>
-                    </ul>
+                    </ul> */}
                   </li>
                   <li>
                     <a href="#about">About us</a>
                   </li>
                   <li className="has-sub-menu relative">
-                    <a href="/" role="button">Events</a>
-                    <ul className="et-header-submenu">
-                      <li>
-                        <a href="/#">All Events</a>
-                      </li>
-                      <li>
-                        <a href="/#">Events Details</a>
-                      </li>
-                    </ul>
+                    <a href="/" role="button">AEE2023 Schedule</a>
+                  
                   </li>
                   <li className="has-sub-menu relative">
-                    <a href="/" role="button">Pages</a>
+                    <a href="/" role="button">Press</a>
                     <ul className="et-header-submenu">
                       <li>
                         <a href="/#">Pricing Plan</a>

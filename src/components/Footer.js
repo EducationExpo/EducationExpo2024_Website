@@ -60,8 +60,8 @@ export default function Footer() {
           </div>
           {/* txt */}
           <div>
-            <span className="block font-medium text-[14px]">Call Emergency</span>
-            <h5 className="font-medium text-[20px]"><a href="tel:88012365499">+91 9371231231</a></h5>
+            <span className="block font-medium text-[14px]">Call us</span>
+            <h5 className="font-medium text-[20px]"><a href="tel:88012365499">9371231231</a></h5>
           </div>
         </div>
       </div>
@@ -69,7 +69,7 @@ export default function Footer() {
         {/* footer about */}
         <div className="et-footer-about max-w-[295px] lg:max-w-none md:max-w-[300px] xs:max-w-full">
           <a href="#" className="mb-[25px] inline-block"><img src="assets/img/logo-white.png" alt="logo" /></a>
-          <p className="font-light text-[#f2f2f2] text-[16px] mb-[25px]">Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus sit amet magna elemen facilisis</p>
+          <p className="font-light text-[#f2f2f2] text-[16px] mb-[25px]">The Aurangabad Education Expo is a premier event organized by the Minds in Motion Foundation</p>
           {/* social media */}
           <div className="et-socials flex gap-[10px] text-[14px] *:border *:border-[#9EAACB] *:text-[#9EAACB] *:w-[40px] *:aspect-square *:shrink-0 *:inline-flex *:items-center *:justify-center *:rounded-full ">
             <a href="#" className="hover:text-white hover:bg-etBlue hover:border-etBlue"><i className="fa-brands fa-facebook-f" /></a>
@@ -80,55 +80,35 @@ export default function Footer() {
         </div>
         {/* widget */}
         <div className="et-footer-widget shrink-0 xs:grow">
-          <h5 className="text-[20px] font-medium mb-[16px]">Find <span className="text-etBlue">Events</span></h5>
+          <h5 className="text-[20px] font-medium mb-[16px]">Useful <span className="text-etBlue">Links</span></h5>
           <ul className="space-y-[17px] text-[16px] font-light text-[#f2f2f2]">
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
-                <span className="txt">Outdoor Concerts</span>
+                
+                <span className="txt">Useful Links</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
+                
                 <span className="txt">Indoor Concerts</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
+                
                 <span className="txt">Festivals</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
+                
                 <span className="txt">Concerts</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
+                
                 <span className="txt">Event Calendar</span>
               </a>
             </li>
@@ -136,48 +116,32 @@ export default function Footer() {
         </div>
         {/* widget */}
         <div className="et-footer-widget shrink-0 xs:grow">
-          <h5 className="text-[20px] font-semibold mb-[16px]">Useful <span className="text-etBlue">Links</span></h5>
+          <h5 className="text-[20px] font-semibold mb-[16px]"> <span className="text-etBlue">Legal</span></h5>
           <ul className="space-y-[17px] text-[16px] font-light text-[#f2f2f2]">
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
-                <span className="txt">Log In</span>
+                
+                <span className="txt">Terms and Conditions</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
-                <span className="txt">Register</span>
+                
+                <span className="txt">Privacy Policies</span>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
+                
                 <span className="txt">About Eventek</span>
               </a>
             </li>
             <li>
               <a href="#" className="flex items-center gap-[10px] hover:text-etBlue group">
-                <span className="icon">
-                  <svg width={12} height={16} viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M0 15.875V2.28125C0 1.51953 0.615234 0.875 1.40625 0.875H9.84375C10.6055 0.875 11.25 1.51953 11.25 2.28125V15.875L5.625 12.5938L0 15.875Z" className="fill-transparent stroke-white group-hover:stroke-etBlue group-hover:fill-etBlue transition" />
-                  </svg>
-                </span>
+                
                 <span className="txt">How It Works</span>
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
         {/* widget */}
